@@ -13,4 +13,5 @@ Key Finding: Female spending drops significantly in February and November, repre
 Top Category: Electronics is the most demanded product category.
 
 View full insights PDF :
+
 https://github.com/kush-ang/Oasis_Infobyte_Internship_2026_Projects_TASK_1/blob/main/Retail%20Sales%20Analysis_Insights_Task1.pdf
